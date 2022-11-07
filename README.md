@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
 --
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinnyzinny)](https://github.com/Jinnyzinny/github-readme-stats)
+
+
 ## And I will prepare these technique
 
 아 천천히 해보자고 꾸미기 귀차너
