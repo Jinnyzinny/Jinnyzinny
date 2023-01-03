@@ -11,5 +11,3 @@
 
 
 ## And I will prepare these technique
-
-아 천천히 해보자고 꾸미기 귀차너
