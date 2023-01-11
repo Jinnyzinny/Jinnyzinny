@@ -14,3 +14,7 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 위 기술을 익히기 위해서 <a href="https://github.com/Jinnyzinny/Do-it-React-Study">이 레포</a>에서 공부하는 중이에요
+
+## 공부하고 싶은 분야이긴 하지만 아직 하고있지는 않아요
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
