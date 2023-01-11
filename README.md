@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
 
 
-[![https://solved.ac/profile/ddocdoli](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/ddocdoli](http://mazassumnida.wtf/api/generate_badge?boj={[handle](https://solved.ac/profile/ddocdoli)})](https://solved.ac/{[handle](https://solved.ac/profile/ddocdoli)})
