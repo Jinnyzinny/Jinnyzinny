@@ -19,5 +19,4 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
 
-
-[![https://solved.ac/profile/ddocdoli](http://mazassumnida.wtf/api/generate_badge?boj={[handle](https://solved.ac/profile/ddocdoli)})](https://solved.ac/{[handle](https://solved.ac/profile/ddocdoli)})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Jinnyzinny)](https://solved.ac/Jinnyzinny/)
