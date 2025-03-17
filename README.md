@@ -1,14 +1,22 @@
-안녕하세요!!
-풀스택 개발자를 지향하고 있는 이진형입니다.
+<h1>안녕하세요!!<br>풀스택 개발자를 지향하고 있는 이진형입니다.</h2>
 
-현재 제가 사용할 수 있는 기술 스택입니다.
+<h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
+
+사용 가능 언어입니다.
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+Front-end 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-
+Back-end
+<!--MySQL-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ 
 
 제 Github Stat입니다.
 
