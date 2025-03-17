@@ -2,19 +2,19 @@
 
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
 
-사용 가능 언어입니다.
-<div align="center">
+<h3>사용 가능 언어입니다.</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
-Front-end 
-<div align="center">
+<h3>Front-end</h3> 
+<div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
-Back-end
+<h3>Back-end</h3>
 <!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  
