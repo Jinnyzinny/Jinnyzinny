@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontColor=0047AB&textBg=false&fontAlignY=50&animation=fadeIn
+![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&fontColor=0047AB&textBg=false&fontAlignY=50&animation=fadeIn))
 <h1>안녕하세요!!<br>풀스택 개발자를 지향하고 있는 이진형입니다.</h2>
 
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
