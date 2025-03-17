@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요!%20풀스택%20개발자를%20지향하고%20있는%20이진형입니다&fontColor=0047AB&reversal=false&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요!&fontColor=0047AB&reversal=false&fontAlign=50)
 
+<h2>풀스택 개발자를 지향하고 있는 이진형입니다</h2>
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
 
 <h3>사용 가능 언어입니다.</h3>
