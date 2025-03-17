@@ -3,7 +3,7 @@
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
 
 사용 가능 언어입니다.
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 Front-end 
