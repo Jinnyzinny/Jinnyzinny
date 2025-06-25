@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요!&fontColor=0047AB&reversal=false&fontAlign=50)
 
 <h2>이진형입니다</h2>
+
+[기술 블로그](https://jinnyzinny-221.tistory.com/)를 운영 중이, 스프링 프레임워크의 최적화와 DB의 최적화에 관심 있게 보고 있습니다.
+
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
 
 <h3>사용 가능 언어입니다.</h3>
