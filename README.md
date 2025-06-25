@@ -2,7 +2,7 @@
 
 <h2>이진형입니다</h2>
 
-[기술 블로그](https://jinnyzinny-221.tistory.com/)를 운영 중이, 스프링 프레임워크의 최적화와 DB의 최적화에 관심 있게 보고 있습니다.
+[기술 블로그](https://jinnyzinny-221.tistory.com/)를 운영 중이며, <strong>스프링 프레임워크</strong>의 최적화와 <strong>DB의 최적화</strong>에 관심이 많습니다.
 
 <h2>현재 제가 사용할 수 있는 기술 스택입니다.</h2>
 
