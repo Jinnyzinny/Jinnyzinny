@@ -27,7 +27,7 @@
 </div>
 <h4>DB</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
-  <img src="https://img.sheilds.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp 
+  <img src="https://img.sheilds.io/badge/PostgreSQL?style=for-the-badge&logo=postgreSQL&logoColor=white" />&nbsp 
 
 <h4>Github + Infra</h4>
 <div align="left">
