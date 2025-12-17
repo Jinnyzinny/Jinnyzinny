@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp
   
-  <img src="https://img.shields.io/badge/github-action-800080?style=for-the-badge&logo=github-actions&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/github-action-800080?style=for-the-badge&logo=github&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp
 
   
